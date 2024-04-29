@@ -11,6 +11,12 @@ The specific structure of the model is shown in the following figure:
 
 ![替代文本](picture/Fig1.png)
 
+### Recognition effect
+
+The following are the specific recognition results using our model and the comparison results with five YOLOv8 series models：
+
+![替代文本](picture/Fig2.png)
+
 ## Preparation work
 
 If you want to use our model, you need to use it in the Yolov8 environment, so it is necessary for you to install the Ultratics environment in your work environment in order to run our model.
